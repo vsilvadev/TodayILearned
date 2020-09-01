@@ -8,7 +8,7 @@
 
 
 <h4>❗ Would you like to know more about booleans in JS?</h4>
-<p> Access the links below:</p>
+<p> Access the link below:</p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean">
 <img src="https://img.shields.io/static/v1?label=ABOUT&message=BOOLEANS&color=f0d500&style=for-the-badge"/>
 </a>
