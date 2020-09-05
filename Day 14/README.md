@@ -1,7 +1,7 @@
 <h1 align="center">💻 Day 14 💻</h1>
 
 <h2>📚 Learnings of the day:</h2>
-<p>Today I learned about another type of Assignment: <b>Destructuring<b>.</p>
+<p>Today I learned about another type of Assignment: <b>Destructuring</b>.</p>
 <p> Destructuring came to JavaScript in ES2015 and makes easy to get data from an array or object and put into a variable</p>
 
 <h3>1️⃣ Destructuring Object: </h3>
