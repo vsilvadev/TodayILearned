@@ -1,10 +1,13 @@
 <h1 align="center">💻 Day 18 💻</h1>
 
 <h2>📚 Learnings of the day:</h2>
-<p>Today I learned about Unary Operator.</p>
+<p>Today I learned about Unary and Ternary Operators.</p>
 
 <h3>1️⃣ Unary Operator: </h3>
 <p>• A unary operator is an operation with only one operand. There are several types of unary operators, I decided to use the addition and subtraction to exemplify because they are the ones I have used constantly.<p>
+  
+<h3>2️⃣ Ternary Operator: </h3>
+<p>• Also known as a conditional operator, it is the only JavaScript operator that uses three operands. The operator can have one of two values based on a condition..<p>
 
 <h4>❗ Would you like to know more about Operators in JavaScript?</h4>
 <p> Access the link below:</p>
